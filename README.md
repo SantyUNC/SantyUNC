@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **SantyUNC/SantyUNC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,15 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### About me:
+<h1 align='center'>Hi there  👋, I'm Santy
 
-:ticket: Accountant student
+<a href="https://www.linkedin.com/in/santiago-alvarez33" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<h3 align='center'>:receipt: Acounting student. | 👨‍🚀 Platzi Student | :pencil: Always learning new things 
+</h3>
 
-:pencil: Always learning new things 
 
-:oncoming_automobile: F1 and car fan 
 
-### My preparation/p
-
-### Contact:
-[![Linkdedin](www.linkedin.com/in/santiago-alvarez33)]
