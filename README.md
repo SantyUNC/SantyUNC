@@ -14,8 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About me:
 
-### Contact
+:ticket: Accountant student
 
-:computer: Estudiante de contaduría
+:pencil: Always learning new things 
 
+:oncoming_automobile: F1 and car fan 
+
+### My preparation/p
+
+### Contact:
+[![Linkdedin](www.linkedin.com/in/santiago-alvarez33)]
