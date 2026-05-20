@@ -2,8 +2,11 @@ name: Update README
 
 on:
   schedule:
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"  # Optimized: Runs exactly at minute 0 every 12 hours
   workflow_dispatch:
+
+permissions:
+  contents: write  # Fixes Git Error 128 by granting push authorization
 
 jobs:
   build:
