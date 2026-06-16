@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [SantyUNC/TercerRepo-Release-](https://github.com/SantyUNC/TercerRepo-Release-)<br>
-2. ⬆️ Pushed undefined commit(s) to [SantyUNC/SantyUNC](https://github.com/SantyUNC/SantyUNC)<br>
+1. ✌️ Released [v0.1.0](https://github.com/SantyUNC/TercerRepo-Release-/releases/tag/v0.1.0) in [SantyUNC/TercerRepo-Release-](https://github.com/SantyUNC/TercerRepo-Release-)<br>
+2. ⬆️ Pushed undefined commit(s) to [SantyUNC/TercerRepo-Release-](https://github.com/SantyUNC/TercerRepo-Release-)<br>
 3. ⬆️ Pushed undefined commit(s) to [SantyUNC/SantyUNC](https://github.com/SantyUNC/SantyUNC)<br>
 4. ⬆️ Pushed undefined commit(s) to [SantyUNC/SantyUNC](https://github.com/SantyUNC/SantyUNC)<br>
 5. ⬆️ Pushed undefined commit(s) to [SantyUNC/SantyUNC](https://github.com/SantyUNC/SantyUNC)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 15th, 2026, 5:13:56 PM
+Last Updated: Tuesday, June 16th, 2026, 4:05:22 AM
 <!--RECENT_ACTIVITY:last_update_end-->
