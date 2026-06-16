@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 
 ### :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.1.0](https://github.com/SantyUNC/TercerRepo-Release-/releases/tag/v0.1.0) in [SantyUNC/TercerRepo-Release-](https://github.com/SantyUNC/TercerRepo-Release-)<br>
+1. ✌️ Released [v0.1.1](https://github.com/SantyUNC/TercerRepo-Release-/releases/tag/v0.1.1) in [SantyUNC/TercerRepo-Release-](https://github.com/SantyUNC/TercerRepo-Release-)<br>
 2. ⬆️ Pushed undefined commit(s) to [SantyUNC/TercerRepo-Release-](https://github.com/SantyUNC/TercerRepo-Release-)<br>
-3. ⬆️ Pushed undefined commit(s) to [SantyUNC/SantyUNC](https://github.com/SantyUNC/SantyUNC)<br>
-4. ⬆️ Pushed undefined commit(s) to [SantyUNC/SantyUNC](https://github.com/SantyUNC/SantyUNC)<br>
-5. ⬆️ Pushed undefined commit(s) to [SantyUNC/SantyUNC](https://github.com/SantyUNC/SantyUNC)<br>
+3. ⬆️ Pushed undefined commit(s) to [SantyUNC/TercerRepo-Release-](https://github.com/SantyUNC/TercerRepo-Release-)<br>
+4. ✌️ Released [v0.1.0](https://github.com/SantyUNC/TercerRepo-Release-/releases/tag/v0.1.0) in [SantyUNC/TercerRepo-Release-](https://github.com/SantyUNC/TercerRepo-Release-)<br>
+5. ⬆️ Pushed undefined commit(s) to [SantyUNC/TercerRepo-Release-](https://github.com/SantyUNC/TercerRepo-Release-)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 16th, 2026, 4:05:22 AM
+Last Updated: Tuesday, June 16th, 2026, 4:51:37 PM
 <!--RECENT_ACTIVITY:last_update_end-->
