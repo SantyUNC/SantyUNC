@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align='center'>Hi there  👋, I'm Santy
 
-<h3 align='center'>:receipt: Acounting student | 👨‍🚀 Platzi Student | :pencil: Always learning new things 
+<h3 align='center'>:receipt: Accounting student | 👨‍🚀 Platzi Student | :pencil: Always learning new things 
 </h3>
 
 <div align='center'> <a href="https://www.linkedin.com/in/santiago-alvarez33" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
